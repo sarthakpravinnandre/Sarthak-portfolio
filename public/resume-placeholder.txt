@@ -1,0 +1,8 @@
+RESUME PLACEHOLDER
+==================
+Place your actual resume PDF file here at:
+/public/resume.pdf
+
+Name the file exactly: resume.pdf
+
+This file will be served at /resume.pdf and downloaded when users click "Download Resume".

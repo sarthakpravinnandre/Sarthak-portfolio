@@ -1,0 +1,184 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3392 >>
+stream
+BT
+/F2 18 Tf
+50 780 Td
+(SARTHAK PRAVIN NANDRE) Tj
+ET
+BT
+/F1 10 Tf
+50 762 Td
+(Computer Engineer | AI & ML | Data Analytics | Software Development) Tj
+50 748 Td
+(Email: sarthaknandre2004@gmail.com | LinkedIn: linkedin.com/in/sarthak-nandre | Nashik, India) Tj
+ET
+BT
+/F2 12 Tf
+50 720 Td
+(EDUCATION) Tj
+ET
+BT
+/F1 9 Tf
+50 705 Td
+(Pune Vidyarthi Griha's College of Engineering and SSDIOM, Nashik) Tj
+50 692 Td
+(Bachelor of Engineering in Computer Engineering | 2022 - 2026 | CGPA: 8.9 / 10) Tj
+ET
+BT
+/F2 12 Tf
+50 665 Td
+(EXPERIENCE) Tj
+ET
+BT
+/F2 10 Tf
+50 650 Td
+(Quality Lead | Ethara AI | February 2026 - Present) Tj
+ET
+BT
+/F1 9 Tf
+50 638 Td
+(- Analyze AI/ML datasets using Python, Pandas, and NumPy for anomaly identification.) Tj
+50 626 Td
+(- Evaluate machine learning model outputs for consistency, relevance, and accuracy.) Tj
+50 614 Td
+(- Develop automated Python-based quality checks and recurring error-analysis pipelines.) Tj
+ET
+BT
+/F2 10 Tf
+50 596 Td
+(Data Science Intern | Devspace IT Solutions | August 2025 - January 2026) Tj
+ET
+BT
+/F1 9 Tf
+50 584 Td
+(- Contributed to YOLO-based crop disease detection with data augmentation and validation.) Tj
+ET
+BT
+/F2 10 Tf
+50 566 Td
+(Power BI & Dashboard Intern | Celebal Technologies | May 2025 - July 2025) Tj
+ET
+BT
+/F1 9 Tf
+50 554 Td
+(- Built Power BI pool-code tracking dashboard, improving ERM tracking by 35%.) Tj
+50 542 Td
+(- Automated DAX and Power Query validations, reducing manual effort by 50%.) Tj
+ET
+BT
+/F2 10 Tf
+50 524 Td
+(Data Analytics Intern | Infosys Springboard | February 2025 - April 2025) Tj
+ET
+BT
+/F1 9 Tf
+50 512 Td
+(- Developed interactive Power BI and Tableau dashboards for sports and business metrics.) Tj
+ET
+BT
+/F2 12 Tf
+50 484 Td
+(FEATURED PROJECTS) Tj
+ET
+BT
+/F2 10 Tf
+50 469 Td
+(1. AI-Based Data Analyzer, Visualizer & Cleaning Tool [Python, Pandas, FastAPI]) Tj
+ET
+BT
+/F1 9 Tf
+50 457 Td
+(- End-to-end automated dataset profiling, anomaly detection, and data cleaning pipeline.) Tj
+ET
+BT
+/F2 10 Tf
+50 441 Td
+(2. AI-Based Generative Architectural Design [Deep Learning, GANs, CAD]) Tj
+ET
+BT
+/F1 9 Tf
+50 429 Td
+(- Deep learning floor plan synthesis; filed academic research paper on generative design.) Tj
+ET
+BT
+/F2 10 Tf
+50 413 Td
+(3. Crop Disease Detection System [Python, YOLO, Computer Vision]) Tj
+ET
+BT
+/F1 9 Tf
+50 401 Td
+(- Computer vision inference pipeline reporting 98%+ test accuracy for crop pathology.) Tj
+ET
+BT
+/F2 10 Tf
+50 385 Td
+(4. ArchitectAI [React, AI APIs] - Live: architectai-pied.vercel.app) Tj
+ET
+BT
+/F2 12 Tf
+50 357 Td
+(KEY ACHIEVEMENTS) Tj
+ET
+BT
+/F1 9 Tf
+50 342 Td
+(- Smart India Hackathon 2025 Grand Finale National Finalist) Tj
+50 330 Td
+(- NASA Space Apps Challenge 2024 International Finalist) Tj
+50 318 Td
+(- Finalist in 7+ national and state-level hackathons) Tj
+50 306 Td
+(- Research Paper Filed: Generative Architectural Design Using AI) Tj
+50 294 Td
+(- NITK Hackathon: ML Fraud Detection with 90%+ reported test accuracy) Tj
+ET
+BT
+/F2 12 Tf
+50 266 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 9 Tf
+50 251 Td
+(Languages & Frameworks: Python, C++, SQL, JavaScript, TypeScript, FastAPI, React.js, Flask) Tj
+50 239 Td
+(AI & ML: TensorFlow, scikit-learn, YOLO, GANs, Computer Vision, Model Evaluation) Tj
+50 227 Td
+(Data & BI: Pandas, NumPy, Power BI, Tableau, DAX, Power Query, Data Cleaning, ETL) Tj
+50 215 Td
+(Developer Tools: Git, GitHub Actions, VS Code, Google Colab, Linux, Databricks) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003695 00000 n 
+0000003765 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3840
+%%EOF
