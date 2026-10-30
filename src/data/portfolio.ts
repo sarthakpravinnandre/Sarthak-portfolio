@@ -131,7 +131,6 @@ export const projects = [
     color: '#06b6d4',
     accentColor: '#22d3ee',
     github: 'https://github.com/sarthak-nandre',
-    live: 'https://shamba-smart-scan.vercel.app/',
     featured: true,
     icon: '🌿',
   },
